@@ -1,11 +1,9 @@
 # Overview
-
-It is public template of assignment `"labrabota 3"` for FPMI students
+Данный проект реализует алгоритм поиска количества "счастливых" билетов (Вариант 32). Программа написана на языке C и разделена на модули согласно стандартам КИС.
 
 # Usage
-
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+Исполнитель: Мещенко Валерия, группа 10.
+Программа запускается через кнопку Run в Repl.it или командой из файла .replit.
 
 # Building
-
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+Для сборки проекта используется компилятор GCC. Исходный код находится в папке src.
